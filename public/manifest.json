@@ -1,0 +1,14 @@
+{
+  "short_name": "Interactive Comments",
+  "name": "Interactive Comments",
+  "icons": [
+    {
+      "src": "favicon-32x32.png",
+      "sizes": "64x64 32x32 24x24 16x16"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f5f6fa",
+  "background_color": "#f5f6fa"
+}
